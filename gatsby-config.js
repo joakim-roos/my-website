@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: `Joakim Roos`,
-    description: `Joakim Roos is a designer and creative developer.`,
+    description: `Joakim Roos is Stockholm based designer and creative front end developer.`,
     author: `@joakim-roos`,
   },
   plugins: [
